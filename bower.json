@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.1.0",
+  "authors": "Sopra Steria",
+  "description": "App M comme Mutuelle",
+  "main": "client/index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "es5-shim": "~4.1.14",
+    "materialize": "~0.97.1",
+    "jquery": "~2.1.4",
+    "font-awesome": "~4.4.0",
+    "modernizr": "~3.0.0"
+  }
+}
